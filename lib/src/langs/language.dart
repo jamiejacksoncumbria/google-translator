@@ -87,7 +87,6 @@ class LanguageList {
     'mk': 'Macedonian',
     'mg': 'Malagasy',
     'mai': 'Maithili',
-    'mg': 'Malagasy',
     'ms': 'Malay',
     'ml': 'Malayalam',
     'mt': 'Maltese',
